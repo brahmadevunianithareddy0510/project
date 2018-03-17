@@ -1,0 +1,25 @@
+{
+	"basic"
+"objective": "all are  true"
+},
+"education":[
+{
+	"degree":"btech(computer science of engineering)",
+	"college":"sir CRR engineering college",
+	"data":["2015-19","75%"]
+},
+{
+	"degree":"state board if technical education(diplama)",
+	"college":"sri vishnavi  enginering college",
+	"data":["2013-15","77%"],
+},
+{
+	"degree":"ssc",
+	"college":"S.h.S",
+	"data":["2012-13","80%"],
+
+}
+]
+}
+
+
